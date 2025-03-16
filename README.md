@@ -1,5 +1,7 @@
 # E-Commerce Healthcare Platform Deployment
 
+![image](https://github.com/user-attachments/assets/e874626f-fff2-4caa-8deb-e2cddf504fda)
+
 ## Overview
 
 This project showcases the deployment of an advanced **E-Commerce Healthcare Platform**, designed to provide a seamless user experience, offering holistic healthcare products and personalized wellness solutions. The platform features a sophisticated technology stack and is hosted on **Hostinger VPS** to ensure high performance and scalability.
